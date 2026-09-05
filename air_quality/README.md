@@ -33,8 +33,9 @@
 
 
 ![Общий вид дашборда](images/main_dash.JPG)
+![Применение фильтра](images/main_dash_date_filter.JPG)
 
 ## Ссылка на дашборд
 
-[Смотреть дашборд в Yandex DataLens](https://datalens.yandex/сюда_вставьте_свою_публичную_ссылку)
+[Смотреть дашборд в Yandex DataLens](https://datalens.yandex/2fq9lzjd75lkm?_share_link=public)
 
