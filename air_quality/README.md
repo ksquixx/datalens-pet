@@ -32,7 +32,7 @@
 ## Скриншоты
 
 
-![Общий вид дашборда](images/dashboard_overview.png)
+![Общий вид дашборда](images/main_dash.JPG)
 
 ## Ссылка на дашборд
 
